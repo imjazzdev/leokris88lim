@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759175141311",
+    "project_id": "leo-kris-88-lim",
+    "storage_bucket": "leo-kris-88-lim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759175141311:android:d4c38232bbce1ad35d330a",
+        "android_client_info": {
+          "package_name": "com.example.leokris88lim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoXHlmJKiKW_fgYDN3CcLBC-olNptfMzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
